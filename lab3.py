@@ -68,14 +68,6 @@ def snowman():
     hatLine.setWidth(10)
     hatLine.draw(win)
 
-    # for i in range(3):
-    #     point = win.getMouse()
-    #     x = point.getX()
-    #     y = point.getY()
-
-    #     print(x,y)
-
-
 
 
     # close the program
